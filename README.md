@@ -4,7 +4,7 @@
 
 - **Estudiante:** Juan Carlos Barajas
 - **Ficha:** 3228970A
-- **Dominio Asignado:** Inmobilaria Bienes Raices Plus
+- **Dominio Asignado:** Inmobilaria Bienes Raic
 - **Instructor:** Erick Granados
 
 ## 📁 Estructura del Repositorio
